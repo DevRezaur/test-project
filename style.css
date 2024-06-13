@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+    max-width: 100%;
+    scroll-behavior: smooth;
+}
+
+body {
+    height: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+nav {
+    height: 50px;
+    padding: 10px 20px;
+    background: #1f2833;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+}
