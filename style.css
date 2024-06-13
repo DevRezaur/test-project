@@ -19,7 +19,7 @@ body {
 nav {
     height: 50px;
     padding: 10px 20px;
-    background: #1f2833;
+    background: red;
     color: #ffffff;
     display: flex;
     align-items: center;
